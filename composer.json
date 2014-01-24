@@ -1,0 +1,14 @@
+{
+    "name": "vantoozz/helper-fs",
+    "description": "File System Helper",
+    "keywords": ["file system", "helper"],
+    "authors": [
+        {
+            "name": "Ivan Nikitin",
+            "email": "vantoozz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "FSHelper": "src/" }
+    }
+}
